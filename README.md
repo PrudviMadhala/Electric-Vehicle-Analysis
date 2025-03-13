@@ -24,3 +24,18 @@ Insight: Tracks the growth trend of EV adoption over time.
 Visualization: Map Chart
 Insight: Highlights geographic regions with the highest adoption rates.
 ## 5.3 Top 10 Total Vehicles by Make
+Visualization: Bar Chart
+Insight: Identifies leading EV manufacturers in terms of market share.
+## 5.4 Total Vehicles by CAFV Eligibility
+Visualization: Pie/Donut Chart
+Insight: Shows the proportion of vehicles that qualify for government incentives.
+## 5.5 Top 10 Total Vehicles by Model
+Visualization: Treemap
+Insight: Highlights the most popular EV models among consumers.
+## 6. Key Findings
+EV Adoption Trends: The number of electric vehicles has increased significantly since 2010, with certain states leading in adoption.
+Market Leaders: A few manufacturers dominate the EV market, with particular models being more popular.
+CAFV Incentive Impact: A notable percentage of EVs qualify for incentives, influencing purchasing decisions.
+## 7. Conclusion
+
+The analysis provides insights into EV market trends, adoption patterns, and key players in the industry. Further investigation can explore the factors influencing EV adoption in different regions.
