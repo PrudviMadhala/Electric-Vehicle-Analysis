@@ -34,6 +34,7 @@ Insight: Shows the proportion of vehicles that qualify for government incentives
 ## 6.5 Top 10 Total Vehicles by Model
 Visualization: Treemap
 Insight: Highlights the most popular EV models among consumers.
+## Dashboard Interaction <a href="https://github.com/PrudviMadhala/Electric-Vehicle-Analysis/blob/main/Electric%20Vehicle%20analysis.png">View Dashboard</a>
 ## 7. Key Findings
 EV Adoption Trends: The number of electric vehicles has increased significantly since 2010, with certain states leading in adoption.
 Market Leaders: A few manufacturers dominate the EV market, with particular models being more popular.
