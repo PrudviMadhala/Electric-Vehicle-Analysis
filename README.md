@@ -8,9 +8,9 @@ The dataset includes electric vehicle registration data from 2010 onward, captur
 ## 4. Data Preparation
 The collected data was processed using Microsoft Excel and Power BI. Key steps included:
 
-Cleaning and structuring vehicle records.
-Calculating BEV and PHEV percentages.
-Aggregating data by model year and state.
+- Cleaning and structuring vehicle records.
+- Calculating BEV and PHEV percentages.
+- Aggregating data by model year and state.
 ## 5. Key Metrics Analysis
 The following statistics were derived from the dataset:
 
