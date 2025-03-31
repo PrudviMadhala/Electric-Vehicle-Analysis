@@ -14,31 +14,33 @@ The collected data was processed using Microsoft Excel and Power BI. Key steps i
 ## 5. Key Metrics Analysis
 The following statistics were derived from the dataset:
 
-Total Vehicles: Total count of registered electric vehicles.
-Average Electric Range: The mean electric range of vehicles to assess technological advancements.
-Total BEVs and % Share: Count and market share of fully electric vehicles.
-Total PHEVs and % Share: Count and market share of plug-in hybrid vehicles.
+- Total Vehicles: Total count of registered electric vehicles.
+- Average Electric Range: The mean electric range of vehicles to assess technological advancements.
+- Total BEVs and % Share: Count and market share of fully electric vehicles.
+- Total PHEVs and % Share: Count and market share of plug-in hybrid vehicles.
 ## 6. Visualizations and Insights
 ## 6.1 Total Vehicles by Model Year (2010 Onwards)
-Visualization: Line/Area Chart
-Insight: Tracks the growth trend of EV adoption over time.
+- Visualization: Line/Area Chart
+- Insight: Tracks the growth trend of EV adoption over time.
 ## 6.2 Total Vehicles by State
-Visualization: Map Chart
-Insight: Highlights geographic regions with the highest adoption rates.
+- Visualization: Map Chart
+- Insight: Highlights geographic regions with the highest adoption rates.
 ## 6.3 Top 10 Total Vehicles by Make
-Visualization: Bar Chart
-Insight: Identifies leading EV manufacturers in terms of market share.
+- Visualization: Bar Chart
+- Insight: Identifies leading EV manufacturers in terms of market share.
 ## 6.4 Total Vehicles by CAFV Eligibility
-Visualization: Pie/Donut Chart
-Insight: Shows the proportion of vehicles that qualify for government incentives.
+- Visualization: Pie/Donut Chart
+- Insight: Shows the proportion of vehicles that qualify for government incentives.
 ## 6.5 Top 10 Total Vehicles by Model
-Visualization: Treemap
-Insight: Highlights the most popular EV models among consumers.
-## Dashboard Interaction <a href="https://github.com/PrudviMadhala/Electric-Vehicle-Analysis/blob/main/Electric%20Vehicle%20analysis.png">View Dashboard</a>
-## 7. Key Findings
-EV Adoption Trends: The number of electric vehicles has increased significantly since 2010, with certain states leading in adoption.
-Market Leaders: A few manufacturers dominate the EV market, with particular models being more popular.
-CAFV Incentive Impact: A notable percentage of EVs qualify for incentives, influencing purchasing decisions.
-## 8. Conclusion
+- Visualization: Treemap
+- Insight: Highlights the most popular EV models among consumers.
+## 7. Dashboard 
+![Electric Vehicle analysis](https://github.com/user-attachments/assets/a6b4493f-122a-40ab-8fee-cc723fed0f60)
+
+## 8. Key Findings
+- EV Adoption Trends: The number of electric vehicles has increased significantly since 2010, with certain states leading in adoption.
+- Market Leaders: A few manufacturers dominate the EV market, with particular models being more popular.
+- CAFV Incentive Impact: A notable percentage of EVs qualify for incentives, influencing purchasing decisions.
+## 9. Conclusion
 
 The analysis provides insights into EV market trends, adoption patterns, and key players in the industry. Further investigation can explore the factors influencing EV adoption in different regions.
