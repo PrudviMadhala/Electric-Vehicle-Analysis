@@ -1,6 +1,8 @@
 # Electric Vehicle Market Analysis
 ## 1. Introduction
 The project aims to analyze the growth and adoption trends of electric vehicles (EVs) in the market. The key metrics include total vehicle count, average electric range, the proportion of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), and geographical distribution by state.
+## 2.DataSet Used
+- <a href="https://github.com/PrudviMadhala/Electric-Vehicle-Analysis/blob/main/Electric_Vehicle_Population_Data.zip">Dataset</a>
 ## 2. Data Collection
 The dataset includes electric vehicle registration data from 2010 onward, capturing details such as vehicle type, model, manufacturer, and eligibility for Clean Alternative Fuel Vehicle (CAFV) incentives.
 ## 3. Data Preparation
